@@ -1,4 +1,4 @@
-<h1 align="center">Hi :abanando:, I'm Stephan Cicchelli</h1>
+<h1 align="center">Hi, I'm Stephan Cicchelli</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicchelli&label=Profile%20views&color=0e75b6&style=flat" alt="cicchelli" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cicchelli" alt="cicchelli" /></a> </p>
 - :muda_de_planta: I’m currently learning **Typescript, ReactJS**
