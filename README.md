@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicchelli&label=Profile%20views&color=0e75b6&style=flat" alt="cicchelli" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cicchelli" alt="cicchelli" /></a> </p> -->
 
-- 🌱 I’m currently learning **Typescript, ReactJS**
+- 🌱 I’m currently learning **Docker, MySql, NodeJS**
   
 - 📪 How to reach me **cicchelli.stephan@gmail.com**
 <h3 align="left">Connect with me:</h3>
