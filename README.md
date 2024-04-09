@@ -6,7 +6,6 @@
 ### Por que GitHub?<br><br>Decidi usar o GitHub como uma plataforma para compartilhar meu progresso, projetos e aprender com a comunidade. Acredito que o GitHub oferece um ambiente colaborativo ideal para interagir com outros entusiastas e profissionais do setor, além de ser uma excelente maneira de exibir meu trabalho e desenvolvimento ao longo do tempo.<br><br>
 ### Entre em Contato<br><br>Estou sempre aberto a novas oportunidades de aprendizado, colaboração e networking. Se você estiver interessado em conectar-se, discutir projetos ou compartilhar conhecimento, não hesite em entrar em contato comigo por meio do GitHub ou por e-mail.<br><br>Vamos colaborar e explorar juntos o emocionante mundo da ciência de dados!<br><br>---<br></h3>
 
-###
 
 
 <div align="center">
@@ -83,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Cicchelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cicchelli&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -94,4 +93,4 @@
 <br clear="both">
 
 
-###
+
