@@ -8,13 +8,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cicchelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cicchelli&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Cicchelli&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cicchelli&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/stephancicchelli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Stephan Cicchelli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+</div>
 ###
 
 <br clear="both">
@@ -82,22 +84,14 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/stephancicchelli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Stephan Cicchelli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
-  </a>
-</div>
-
-###
+  <img src="https://streak-stats.demolab.com?user=Cicchelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cicchelli&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Cicchelli&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cicchelli&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cicchelli/Cicchelli/output/snake.svg" alt="Snake animation" />
 
 ###
